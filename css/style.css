@@ -1,26 +1,48 @@
 .header{
    
-    background-color: blanchedalmond;
-}
-.ex{
-    border: 0;
-}
-.card-style{
-    border: 0 !important;
-    margin: 0 25px !important;
-}
-.bag-footer{
-    border: 0 !important;
-    background-color: white !important;
-}
-.bag-card{
-    border: 0 !important;
-}
-.bag-img{
-    background-color: #dad4e0 !important;
-    padding: 10px;
-    border-radius: 10px !important;
-}
-.card-header-ex{
-    margin-left: 25px !important;
-}
+    background-color: #e2caa661;
+       
+    padding: 0px 20px;
+    }
+    .nav-ancor{
+        color:black;
+        text-decoration: none !important;
+        font-size: 20px;
+        font-weight: 600;
+        padding: 0px 20px !important;
+    }
+    .banner-des{
+
+    }
+    .banner-des h1{
+        font-size: 50px;
+    }
+    .ex{
+        border: 0;
+    }
+    .card-style{
+        border: 0 !important;
+        margin: 0 0px !important;
+        margin-left: 24px !important;
+        /* width: 300px !important; */
+    }
+    .bag-footer{
+        border: 0 !important;
+        background-color: white !important;
+    }
+    .bag-card{
+        border: 0 !important;
+    }
+    .bag-img{
+        background-color: #dad4e0 !important;
+        padding: 10px;
+        border-radius: 10px !important;
+    }
+    .card-header-ex{
+        margin-left: 25px !important;
+        margin: 15px 0px 30px;
+        font-size: 50px;
+        font-weight: 700;
+    }
+
+    
