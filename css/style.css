@@ -61,6 +61,11 @@
     .amount{
         color: coral;
     }
-   
+   .height-x{
+       height: 500px !important;
+   }
+   .item{
+       padding: 10px 10px !important;
+   }
 
     
