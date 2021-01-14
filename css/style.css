@@ -17,6 +17,9 @@
     .banner-des h1{
         font-size: 50px;
     }
+    .banner-des p{
+        padding: 0px 10px 0px 0px;
+    }
     .ex{
         border: 0;
     }
@@ -24,7 +27,7 @@
         border: 0 !important;
         margin: 0 0px !important;
         margin-left: 24px !important;
-        /* width: 300px !important; */
+        padding: 15px 30px;
     }
     .bag-footer{
         border: 0 !important;
@@ -45,4 +48,16 @@
         font-weight: 700;
     }
 
-    
+    .btn-extra{
+        padding: 10px 30px !important;
+        background-color: rgb(69, 10, 233) !important;
+        color: white !important;
+        font-size: 20px !important;
+    }
+    .btn-extra:hover{
+        background-color: coral !important;
+        border: 1px solid coral !important;
+    }
+    .amount{
+        color: coral;
+    }
