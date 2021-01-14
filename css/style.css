@@ -61,3 +61,9 @@
     .amount{
         color: coral;
     }
+   
+
+    .footer-i{
+        display: flex;
+        flex-wrap: wrap;
+    }
