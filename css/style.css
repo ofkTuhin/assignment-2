@@ -7,6 +7,7 @@
 }
 .card-style{
     border: 0 !important;
+    margin-left: 30px !important;
 }
 .bag-footer{
     border: 0 !important;
@@ -14,4 +15,9 @@
 }
 .bag-card{
     border: 0 !important;
+}
+.bag-img{
+    background-color: blueviolet !important;
+    padding: 10px;
+    border-radius: 10px !important;
 }
