@@ -3,5 +3,15 @@
     background-color: blanchedalmond;
 }
 .ex{
-    border: none;
+    border: 0;
+}
+.card-style{
+    border: 0 !important;
+}
+.bag-footer{
+    border: 0 !important;
+    background-color: white !important;
+}
+.bag-card{
+    border: 0 !important;
 }
